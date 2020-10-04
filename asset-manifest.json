@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/twilight-imperium-react/static/css/main.5f361e03.chunk.css",
+    "main.js": "/twilight-imperium-react/static/js/main.116680aa.chunk.js",
+    "main.js.map": "/twilight-imperium-react/static/js/main.116680aa.chunk.js.map",
+    "runtime-main.js": "/twilight-imperium-react/static/js/runtime-main.178a346e.js",
+    "runtime-main.js.map": "/twilight-imperium-react/static/js/runtime-main.178a346e.js.map",
+    "static/js/2.71b846f1.chunk.js": "/twilight-imperium-react/static/js/2.71b846f1.chunk.js",
+    "static/js/2.71b846f1.chunk.js.map": "/twilight-imperium-react/static/js/2.71b846f1.chunk.js.map",
+    "index.html": "/twilight-imperium-react/index.html",
+    "precache-manifest.07e9558d489662c30e733e1530e00f24.js": "/twilight-imperium-react/precache-manifest.07e9558d489662c30e733e1530e00f24.js",
+    "service-worker.js": "/twilight-imperium-react/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/twilight-imperium-react/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.71b846f1.chunk.js.LICENSE.txt": "/twilight-imperium-react/static/js/2.71b846f1.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/twilight-imperium-react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.178a346e.js",
+    "static/js/2.71b846f1.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.116680aa.chunk.js"
+  ]
+}
